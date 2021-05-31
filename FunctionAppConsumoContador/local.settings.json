@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "EndpointContador": "http://localhost:7071/api/ValorAtual"
+  },
+  "Host": {
+    "LocalHttpPort": "7073"
+  }
+}
